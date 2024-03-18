@@ -45,6 +45,9 @@ CodeIgniter memiliki 2 cara yang dapat dilakukan untuk melakukan proses instalas
   
 ### 1. Instalasi Secara Manual
 Untuk melakukan instalasi manual, download file zip dari CodeIgniter 4 melalui website resminya.
+![Screenshot 2024-03-18 105007](https://github.com/Meilyaatffh/Meilyaatffh/assets/134565192/b626da98-f509-4d39-a6f5-399372ce99d0)
+Kemudian, extract file zip tersebut dan ubah namanya sesuai dengan nama project yang  diinginkan. CodeIgniter ini sudah bisa langsung dijalankan di web browser Anda dengan mengakses localhost/ci4/public.
+
 
 ### 2. Instalasi Melalui Composer
 Cara kedua untuk menginstall CodeIgniter 4 adalah menggunakan Composer. Kelebihannya, path folder project Anda bisa dibuat dimana saja, tidak perlu di folder htdocs. 
