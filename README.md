@@ -57,7 +57,8 @@ kemudian ketikkan perintah composer create-project codeigniter4/appstarter nama_
 ketikkan perintah cd BelajarCI4 untuk masuk ke dalam folder yang telah kita buat. Perintah php spark serve untuk menjalankan.
 ![image](https://github.com/Meilyaatffh/Meilyaatffh/assets/134565192/c4f2140f-3905-4298-812a-e9790a5aa7db)
 
-Selanjutnya, bukalah web browser Anda dan akses localhost:8080. Halaman awal CodeIgniter akan tampil seperti gambar di bawah ini :
+Selanjutnya, buka browser dan ketikkan akses localhost:8080. Halaman awal CodeIgniter akan tampil seperti gambar di bawah ini :
+![image](https://github.com/Meilyaatffh/Meilyaatffh/assets/134565192/fa733798-789f-4982-a89f-101626b240e5)
 
 
 
