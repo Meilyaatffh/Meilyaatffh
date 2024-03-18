@@ -47,4 +47,10 @@ CodeIgniter memiliki 2 cara yang dapat dilakukan untuk melakukan proses instalas
 Untuk melakukan instalasi manual, download file zip dari CodeIgniter 4 melalui website resminya.
 
 ### 2. Instalasi Melalui Composer
-Cara kedua untuk menginstall CodeIgniter 4 adalah menggunakan Composer. Kelebihannya, path folder project Anda bisa dibuat dimana saja, tidak perlu di folder htdocs. Dan yang paling penting, proses install mudah hanya dengan satu baris perintah saja, yaitu :
+Cara kedua untuk menginstall CodeIgniter 4 adalah menggunakan Composer. Kelebihannya, path folder project Anda bisa dibuat dimana saja, tidak perlu di folder htdocs. 
+Melakukan cek composer untuk memastikan apakah composer sudah terinstall di komputer kita, dengan mengetikkan perintah composer. Jika tampilannya sudah seperti yang dibawah ini maka artinya composer sudah berhasil terinstall
+![image](https://github.com/Meilyaatffh/Meilyaatffh/assets/134565192/e33ace40-7e07-48e0-9436-13b574c7e4db)
+
+Dan yang paling penting, proses install mudah hanya dengan satu baris perintah saja, yaitu :
+
+
