@@ -52,8 +52,13 @@ Melakukan cek composer untuk memastikan apakah composer sudah terinstall di komp
 ![Screenshot 2024-03-18 101643](https://github.com/Meilyaatffh/Meilyaatffh/assets/134565192/83bd8c44-59eb-4e87-a108-eedc4518fcaa)
 
 kemudian ketikkan perintah composer create-project codeigniter4/appstarter nama_folder untuk melakukan proses install. Disini saya membuat folder dengan nama BelajarCI4.
+![Screenshot 2024-03-18 103248](https://github.com/Meilyaatffh/Meilyaatffh/assets/134565192/6b8a05b0-d32f-4dc0-9d92-999085fc0c67)
 
-Setelah folder berhasil dibuat, kemudian buka folder tersebut di Visual Studio Code. 
+ketikkan perintah cd BelajarCI4 untuk masuk ke dalam folder yang telah kita buat. Perintah php spark serve untuk menjalankan.
+![image](https://github.com/Meilyaatffh/Meilyaatffh/assets/134565192/c4f2140f-3905-4298-812a-e9790a5aa7db)
+
+Selanjutnya, bukalah web browser Anda dan akses localhost:8080. Halaman awal CodeIgniter akan tampil seperti gambar di bawah ini :
+
 
 
 
